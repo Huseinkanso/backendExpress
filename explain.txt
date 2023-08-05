@@ -1,0 +1,4 @@
+powershell create new file
+New-item -Path . -Name ".gitignore" -ItemType "file"
+
+npm i express dotenv mongoose colors bcryptjs 
