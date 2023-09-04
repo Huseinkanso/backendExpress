@@ -2,3 +2,14 @@ powershell create new file
 New-item -Path . -Name ".gitignore" -ItemType "file"
 
 npm i express dotenv mongoose colors bcryptjs 
+1)setup mongodb 
+signup to go to mongodb atlas 
+create organization and project and a db 
+2)password to authenticate to the db
+username kanso275
+  passsword YPCshTs4z3yWIjMQ
+3) express async handler  
+package help us handle error when working with mongoose 
+
+
+137
